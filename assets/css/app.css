@@ -38,6 +38,7 @@ h3{
 #gleis{
 	position:fixed;
 	height: 100vh;
+	z-index: 1;
 }
 
 .writingMode { /*Beispiel writing Mode von oben nach unten */
@@ -76,4 +77,38 @@ h3{
 .about{
 	height: 50px;
 	background-color: yellow;
+}
+
+section{
+	display: block;
+}
+
+.section1{
+	position: relative;
+	height: 800px;
+}
+
+.section2{
+	position: relative;
+	height: 800px;
+}
+
+.section3{
+	position: relative;
+	height: 800px;
+}
+
+.section2{
+	position: relative;
+	height: 800px;
+}
+
+.section4{
+	position: relative;
+	height: 800px;
+}
+
+.section5{
+	position: relative;
+	height: 800px;
 }
