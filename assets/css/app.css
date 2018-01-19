@@ -35,10 +35,15 @@ h3{
 	width: 100%;
 }
 
-#gleis{
+.gleis{
 	position:fixed;
+	width: 100vw;
 	height: 100vh;
 	z-index: 1;
+}
+
+.test  {
+	transform: translateY(33vh);
 }
 
 .writingMode { /*Beispiel writing Mode von oben nach unten */
@@ -77,38 +82,4 @@ h3{
 .about{
 	height: 50px;
 	background-color: yellow;
-}
-
-section{
-	display: block;
-}
-
-.section1{
-	position: relative;
-	height: 800px;
-}
-
-.section2{
-	position: relative;
-	height: 800px;
-}
-
-.section3{
-	position: relative;
-	height: 800px;
-}
-
-.section2{
-	position: relative;
-	height: 800px;
-}
-
-.section4{
-	position: relative;
-	height: 800px;
-}
-
-.section5{
-	position: relative;
-	height: 800px;
 }
