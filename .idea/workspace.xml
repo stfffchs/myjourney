@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3af440b-dfd5-4b32-aa90-3eee06cb572b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f3af440b-dfd5-4b32-aa90-3eee06cb572b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +69,6 @@
               <item name="myjourney" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myjourney" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myjourney" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +112,7 @@
       <updated>1538118421762</updated>
       <workItem from="1538118423191" duration="1429000" />
       <workItem from="1538133949247" duration="125000" />
-      <workItem from="1538134118914" duration="270000" />
+      <workItem from="1538134118914" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="reload final">
       <created>1538133447948</created>
@@ -135,11 +128,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538134379071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reload 1">
+      <created>1538134523578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538134523578</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1824000" />
+    <option name="totallyTimeSpent" value="2033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,7 +152,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1622" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50062424" side_tool="true" visible="true" weight="0.32855567" />
@@ -185,7 +184,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reload final" />
     <MESSAGE value="added all to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all to git" />
+    <MESSAGE value="reload 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="reload 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
