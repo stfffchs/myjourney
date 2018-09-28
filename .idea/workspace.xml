@@ -2,50 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3af440b-dfd5-4b32-aa90-3eee06cb572b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SVG/audio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVG/gruenflaeche.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVG/smell.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/gzeaudio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/uster_glocke.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/foundation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/foundation.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Asphalt.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Gruen.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Gruen_Asphalt_Flaechen.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Gruen_Asphalt_Flaechen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Gruenflaechen_1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/asphalt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/audiopuls.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shoeslaufen.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/animated-overlay.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-icons_228ef1_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-icons_ffd27a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/jquery-1.11.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/jquery.ui-1.10.4.progressbar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/jquery.ui.core.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/jquery.ui.progressbar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQueryAssets/jquery.ui.theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.onscreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.scrollify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ready.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/timeout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/foundation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/what-input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/skeleton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/skeleton.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,6 +58,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,7 +80,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,6 +119,7 @@
       <updated>1538118421762</updated>
       <workItem from="1538118423191" duration="1429000" />
       <workItem from="1538133949247" duration="125000" />
+      <workItem from="1538134118914" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="reload final">
       <created>1538133447948</created>
@@ -171,11 +128,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538133447948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added all to git">
+      <created>1538134379071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538134379071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1554000" />
+    <option name="totallyTimeSpent" value="1824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,20 +152,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1622" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50062424" side_tool="true" visible="true" weight="0.32855567" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4993758" weight="0.32908458" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25253165" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2556962" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -219,9 +184,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reload final" />
-    <option name="LAST_COMMIT_MESSAGE" value="reload final" />
+    <MESSAGE value="added all to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all to git" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
